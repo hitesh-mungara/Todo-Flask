@@ -1,6 +1,3 @@
-Certainly! Here's a simple `README.md` file that describes the basic structure and usage of your Flask app based on the file structure you’ve shared:
-
----
 
 # Flask To-Do App
 
@@ -88,9 +85,6 @@ python -m unittest test.py
 - Flask (specified in `requirements.txt`)
 - Any other dependencies specified in the `requirements.txt` file.
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ---
 
